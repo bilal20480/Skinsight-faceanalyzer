@@ -1,5 +1,9 @@
 opencv-python
 mediapipe
 numpy
-streamlit
 Pillow
+streamlit==1.35.0
+rich==14.0.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pygments==2.19.2
